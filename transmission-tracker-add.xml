@@ -18,12 +18,7 @@ This script automatically checks new torrents and adds trackers.</Overview>
   <WebUI/>
   <TemplateURL/>
   <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/transmission-icon.png</Icon>
-  <ExtraParams/>
-  <PostArgs/>
-  <CPUset/>
-  <DateInstalled>1612617766</DateInstalled>
-  <DonateText/>
-  <DonateLink/>
+  <ExtraParams/>--restart=always</ExtraParams>
   <Description>Fully automated script for adding more trackers to Transmission By AndrewMarchukov. &#xD;
 UnRaid docker template By SeanZhang.&#xD;
 &#xD;
